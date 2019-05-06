@@ -4,9 +4,10 @@ The [Career Services Commitment](https://flatironschool.com/career-services-comm
 
 Since we opened our doors in 2012, we have had the opportunity to guide over 1,500 graduates through job searches — and see what students did to land themselves jobs. We have thought carefully about how to guide our students to be proactive and successful in their job search, by outlining specific activities that successful students did to facilitate their job offers. This information helped us to craft the Career Services Commitment, which includes requirements for specific activities we ask students to engage in every week they are job-seeking. Those include: 
 
-* Make contact with at least 8 specific individuals at prospective employers within the software development field each week, record evidence of such contact, and furnish it upon request by Flatiron
-* Post at least 5 GitHub commits per week to your public GitHub profile
-* Post at least 1 technical blog post per week on a public URL that can be verified by Flatiron
+* Make contact with at least 8 specific individuals in your field of study each week, record evidence of such contact, and furnish it upon request by Flatiron
+* For students enrolled in a course in the software engineering or data science fields of study, post at least 5 GitHub commits per week to your public GitHub profile
+* Post at least 1 blog post, focused on a topic in your field of study, per week on a public URL that can be verified by Flatiron School
+* For students enrolled in a course in the design field of study, either complete 1 extra credit assignment from your curriculum each week, complete 3 modules in the track outside your specialization each week or start 1 design challenge from designchallenge.xyz each week
 
 Let’s dive deeper into each of these activities.
 
@@ -16,7 +17,7 @@ We know it feels great to hit “Submit” on a job application. The “Submit�
 
 People don’t get jobs from job boards, they get jobs from people! When submitting an application electronically, the chances are small that your application is being carefully reviewed by a human. As a matter of fact, most companies utilize applicant tracking systems (aka. ‘ATS’) to quickly scan your application to identify keywords to determine if a candidate should move forward. If all you do is hit “Submit,” you’re going to be on the bottom of a digital pile of hundreds of resumes, and a human may never actually lay eyes on your materials. In addition, it’s estimated that [70-80% of jobs are never even posted.](https://www.npr.org/2011/02/08/133474431/a-successful-job-search-its-all-about-networking)
 
-Instead of relying on the [“black hole” of job board submissions](https://www.youtube.com/watch?v=3E3ABerhq3k), we want you to focus on connecting with an actual human who is relevant to your search. Connecting with people allows you to build out your professional network and develop relationships with people who may be able to help you. It gives you a chance to tell your story, and to communicate your passion for code.
+Instead of relying on the [“black hole” of job board submissions](https://www.youtube.com/watch?v=3E3ABerhq3k), we want you to focus on connecting with an actual human who is relevant to your search. Connecting with people allows you to build out your professional network and develop relationships with people who may be able to help you. It gives you a chance to tell your story, and to communicate your passion for your craft.
 
 Connecting with people can happen via two means: in-person or electronically.
 * **In-person - informal networking:** You could go to a meetup or an event and strike up a conversation with the person sitting next to you, or approach the presenter at the end of the event. Meeting new people face to face is a great way to build connections. However, simply having a nice conversation and parting ways does not guarantee that this person becomes part of your ongoing network. You should nurture this contact by sending them a follow-up email the next day (or the same night!) to keep communication going.
@@ -28,13 +29,13 @@ You can fulfill your goal of 8 individual contacts per week with outreach emails
 
 Examples of quality individual contacts:
 * Different stages of an interview
-  * Phone screen, video call, on-site/meet the team, pair programming, etc.
-* Cold emailing a developer who works at a company you’re interested in
-* Having coffee, lunch, or a networking call with a friend, former colleague, family member, friend of a friend, your girlfriend’s mother’s sister’s landlord who works in tech and may be able to connect you to some influential people, etc.
+  * Phone screen, video call, on-site/meet the team, etc.
+* Cold emailing a fellow practitioner who works at a company you’re interested in
+* Having coffee, lunch, or a networking call with a friend, former colleague, family member, friend of a friend, your girlfriend’s mother’s sister’s landlord who works in your field of study and may be able to connect you to some influential people, etc.
 * Meeting new people at a meetup or event, and sending an email the next day to keep the line of communication open
-* Sending an email to a developer asking for advice/feedback on a project, resume, or blog post (advice helps you to become a better developer and job-seeker!)
+* Sending an email to a fellow practitioner, asking for advice/feedback on a project, resume, or blog post (advice helps you to become a better practitioner and job-seeker!)
 
-NOTE: Talking to **external** recruiters does not count towards the 8 connections per week (as they are not “individuals at prospective employers within the software development field”). If you want to talk to an external recruiter, that is okay! But it will need to be in addition to your 8 individual contacts. (Check out [this article](https://www.quora.com/What-do-tech-recruiters-think-about-programming-bootcamps-like-Hack-Reactor-DigitalCrafts-MakerSquare-and-Dev-Bootcamp/answer/Rebekah-Rombom-1) that explains why we encourage students to focus their efforts directly on the companies they want to work for.)
+NOTE: Talking to **external** recruiters does not count towards the 8 connections per week (as they are not individuals at prospective employers within your field of study). If you want to talk to an external recruiter, that is okay! But it will need to be in addition to your 8 individual contacts. (Check out [this article](https://www.quora.com/What-do-tech-recruiters-think-about-programming-bootcamps-like-Hack-Reactor-DigitalCrafts-MakerSquare-and-Dev-Bootcamp/answer/Rebekah-Rombom-1) that explains why we encourage students to focus their efforts directly on the companies they want to work for.)
 Keep in mind that some leads that you pursue will respond quickly, while others might take a week or two to get back to you. Some you won’t ever hear from, and that’s okay. This is why we suggest the amount of activity that we do, because we know what amount of activity it takes to run a successful job search.
 
 ## 5 GitHub Commits
