@@ -64,7 +64,22 @@ You can blog about almost anything related to your learning. You will be learnin
 
 The key here is also to post your blog to a public URL: Medium, Facebook, LinkedIn, your personal website – anywhere that can generate activity and get your blog seen by others. If you have any specific questions, just connect with your Career Coach.
 
+## 1 Extra Credit Assignment/3 Track ModulesS/1 Design Challenge
+(UX/UI design students)
+
+Complete one of the following 3 activities below weekly, post the project on Behance or Dribble, and provide your coach with a URL link to the project in your job Search Tracker (which your coach will verify weekly):
+
+* Complete one (1) extra credit assignment from your UX or UI curriculum each week
+* Complete three (3) modules in the track outside your specialization each week
+* Start one (1) design challenge from designchallenge.xyz each week. 
+
+These exercises will keep you sharp and your skills up as you are looking for your new job opportunity. 
+
+
 ---
 
-We want to make sure you understand exactly what it takes to remain eligible for the Money-Back Guarantee – because ultimately, those are the activities and behaviors it takes to be successful as a job seeker. (The full criteria is outlined [here](http://go.flatironschool.com/career-services-commitment).) Finding a job takes a ton of work, patience, and motivation, and while we’ve got all the resources and supports you’ll need to be successful, it is your job to put in the energy and effort. If you have questions about or want to talk through these requirements, our approach, or anything else job search related, talk to your Career Coach or feel free to reach out to us at [coaching@flatironschool.com](mailto:coaching@flatironschool.com) and a Career Coaching team member will respond.
+
+We want to make sure you understand exactly what it takes to remain eligible for the Money-Back Guarantee – because ultimately, those are the activities and behaviors it takes to be successful as a job seeker. (The full criteria is outlined [here](http://go.flatironschool.com/career-services-commitment).) Finding a job takes a ton of work, patience, and motivation, and while we’ve got all the resources and supports you’ll need to be successful, it is your job to put in the energy and effort. 
+
+If you have questions about or want to talk through these requirements, our approach, or anything else job search related, talk to your Career Coach or feel free to reach out to us at [coaching@flatironschool.com](mailto:coaching@flatironschool.com) and a Career Coaching team member will respond.
 
