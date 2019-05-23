@@ -7,12 +7,12 @@ Since we opened our doors in 2012, we have had the opportunity to guide over 1,5
 - *Make contact with at least 8 specific individuals in your field of study (i.e. software engineering, data science, or UX/UI design) each week, record evidence of such contact, and furnish it upon request by Flatiron*
 - *Post at least 1 blog post, focused on a topic in your field of study, per week on a public URL that can be verified by Flatiron School*
 - *For students enrolled in a course in the software engineering or data science fields of study, post at least 5 GitHub commits per week to your public GitHub profile*
-- *For students enrolled in a course in the design field of study, either complete 1 extra credit assignment from your curriculum each week, complete 3 modules in the track outside your specialization each week, or start 1 design challenge from designchallenge.xyz each week*
+- *For students enrolled in a course in the design field of study, either complete 1 extra credit assignment from your curriculum each week, complete 3 modules in the track outside your specialization each week, or start 1 design challenge from [designchallenge.xyz](https://designchallenge.xyz/) each week*
 
 Let’s dive deeper into each of these activities.
 
 ## Make Contact with 8 Specific People
-(software engineering, data science, or UX/UI design students)
+**(Software Engineering, Data Science, and UX/UI Design students)**
 
 We know it feels great to hit “Submit” on a job application. The “Submit” button turns into a green check-mark, which literally sends a dopamine rush to your brain. It’s so tempting to bask in that green check-mark and think you’ve done your part, that now the ball is in the employer’s court. But we’ve seen time and time again that this is an ineffective strategy. Why?
 
@@ -28,7 +28,7 @@ Connecting with people can happen via two means: in-person or electronically.
 
 You can fulfill your goal of 8 individual contacts per week with outreach emails, or a combination of event follow-up emails, cold outreach, informal coffees with personal connections, and/or interviews! The idea is to connect with real live people throughout your search. If you have specific questions (which you will), make sure to connect with your Career Coach, so they can help you to navigate every step of this process!
 
-Examples of quality individual contacts:
+**Examples of quality individual contacts:**
 
 * *Different stages of an interview*
   * *Phone screen, video call, on-site/meet the team, etc.*
@@ -41,7 +41,7 @@ NOTE: Talking to **external** recruiters does not count towards the 8 connection
 Keep in mind that some leads that you pursue will respond quickly, while others might take a week or two to get back to you. Some you won’t ever hear from, and that’s okay. This is why we suggest the amount of activity that we do, because we know what amount of activity it takes to run a successful job search.
 
 ## 5 GitHub Commits
-(software engineering or data science students)
+**(Software Engineering and Data Science students)**
 
 As a job seeker, you need to be building and selling your personal brand all the time. Your GitHub profile link – where examples of your code/projects live – will be included in your resume, your LinkedIn, and on your personal portfolio, which means employers will have the opportunity to browse through it. Potential employers are interested in seeing if you are actively coding/practicing your craft; specifically, whether you have continued building your skills after graduation. Use this as an opportunity to showcase your passion and continued learning!
 
@@ -54,7 +54,7 @@ Below is a screenshot of the profile page on GitHub where we – and employers �
 A question we often get is: what does the commit have to look like? How big does it have to be? The specifics are up to you - but make sure each commit is meaningful. It’s pretty easy to go in and change a ReadMe or write a small piece of code to show a commit was made. But the content of the changes can also be seen by employers. Our suggestion is to constantly be working on a side project that you are passionate about, and, ideally, daily. Make sure the commits contribute to something larger, and to something that is visible. We want to ensure you are practicing regularly, and keeping your skills sharp.
 
 ## Technical Blog Post
-(software engineering, data science, or UX/UI design students)
+**(Software Engineering, Data Science, and UX/UI Design students)**
 
 This topic is covered at length [here](https://learn.co/tracks/career-prep/career-prep/your-online-presence/blogging), but we’re touching on it again because a weekly blog is a required activity within the Career Services Commitment.
 
@@ -64,10 +64,11 @@ You can blog about almost anything related to your learning. You will be learnin
 
 The key here is also to post your blog to a public URL: Medium, Facebook, LinkedIn, your personal website – anywhere that can generate activity and get your blog seen by others. If you have any specific questions, just connect with your Career Coach.
 
-## 1 Extra Credit Assignment/3 Track ModulesS/1 Design Challenge
-(UX/UI design students)
+## 1 Extra Credit Assignment/3 Track Modules/1 Design Challenge
+**(UX/UI Design students)**
 
-Complete one of the following 3 activities below weekly, post the project on Behance or Dribble, and provide your coach with a URL link to the project in your job Search Tracker (which your coach will verify weekly):
+Complete *one* of the following 3 activities weekly and provide a link to evidence of completion of the activity:
+(Examples of links to verify completion include: Dropbox, Google Drive, etc.)
 
 * Complete one (1) extra credit assignment from your UX or UI curriculum each week
 * Complete three (3) modules in the track outside your specialization each week
