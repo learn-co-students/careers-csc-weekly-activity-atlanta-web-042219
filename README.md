@@ -14,6 +14,8 @@ Let’s dive deeper into each of these activities.
 ## Make Contact with 8 Specific People
 **(Software Engineering, Data Science, and UX/UI Design students)**
 
+View our [Career Services Commitment Contact Guidelines](https://docs.google.com/document/d/1T6VCXuPuZBdB0mCnYtBc6-3YiVLIYxxtce1f2KUHZ8I/edit?usp=sharing) to understand what does and doesn't count as 'contacts'.
+
 We know it feels great to hit “Submit” on a job application. The “Submit” button turns into a green check-mark, which literally sends a dopamine rush to your brain. It’s so tempting to bask in that green check-mark and think you’ve done your part, that now the ball is in the employer’s court. But we’ve seen time and time again that this is an ineffective strategy. Why?
 
 People don’t get jobs from job boards, they get jobs from people! When submitting an application electronically, the chances are small that your application is being carefully reviewed by a human. As a matter of fact, most companies utilize applicant tracking systems (aka. ‘ATS’) to quickly scan your application to identify keywords to determine if a candidate should move forward. If all you do is hit “Submit,” you’re going to be on the bottom of a digital pile of hundreds of resumes, and a human may never actually lay eyes on your materials. In addition, it’s estimated that [70-80% of jobs are never even posted.](https://www.npr.org/2011/02/08/133474431/a-successful-job-search-its-all-about-networking)
