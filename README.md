@@ -4,10 +4,10 @@ The [Career Services Commitment](https://flatironschool.com/career-services-comm
 
 Since we opened our doors in 2012, we have had the opportunity to guide over 1,500 graduates through job searches — and see what students did to land themselves jobs. We have thought carefully about how to guide our students to be proactive and successful in their job search, by outlining specific activities that successful students did to facilitate their job offers. This information helped us to craft the Career Services Commitment, which includes requirements for specific activities we ask students to engage in every week they are job-seeking. Those include: 
 
-- *Make contact with at least 8 specific individuals in your field of study (i.e. software engineering, data science, or UX/UI design) each week, record evidence of such contact, and furnish it upon request by Flatiron*
-- *Post at least 1 blog post, focused on a topic in your field of study, per week on a public URL that can be verified by Flatiron School*
-- *For students enrolled in a course in the software engineering or data science fields of study, post at least 5 GitHub commits per week to your public GitHub profile*
-- *For students enrolled in a course in the design field of study, either complete 1 extra credit assignment from your curriculum each week, complete 3 modules in the track outside your specialization each week, or start 1 design challenge from [designchallenge.xyz](https://designchallenge.xyz/) each week*
+- *Make contact with at least eight (8) individuals, verified by first, last name and title, at prospective employers within your field of study with respect to the Money-Back Guarantee Qualifying Program (recording evidence of such contact to be furnished upon request by Flatiron School) and update your job-search tracking tool with a written summary of all such job search activities*
+- *Post at least one (1) written or video blog post (containing your original thoughts and ideas, providing all appropriate citations and references to third-party content from other sources), focused on a topic in your field of study with respect to the Money-Back Guarantee Qualifying Program, on a public URL that can be verified by Flatiron School*
+- *For students enrolled in a course in the software engineering or data science fields of study, post at least 5 GitHub contributions per week to your public GitHub profile*
+- *For students enrolled in a course in the design field of study, you must either (i) complete one (1) extra credit assignment from your curriculum each week, (ii) complete three (3) modules in the track outside your specialization each week, or (iii) start one (1) design challenge from one of the approved web pages each week*
 
 Let’s dive deeper into each of these activities.
 
