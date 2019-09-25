@@ -76,7 +76,12 @@ Complete *one* of the following 3 activities weekly and provide a link to eviden
 
 * Complete one (1) extra credit assignment from your UX or UI curriculum each week
 * Complete three (3) modules in the track outside your specialization each week
-* Start one (1) design challenge from designchallenge.xyz each week. 
+* Start one (1) design challenge from one of the following websites each week:
+
+     [productdesigninterview.com](https://productdesigninterview.com/weekly-ux-product-design-exercise)
+     [designercize.com](https://designercize.com)
+     [dailyui.com](https://www.dailyui.co/)
+     [behance.net](https://www.behance.net/dailycreativechallenge)
 
 These exercises will keep you sharp and your skills up as you are looking for your new job opportunity. 
 
