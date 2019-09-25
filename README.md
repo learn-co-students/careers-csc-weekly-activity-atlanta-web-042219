@@ -9,7 +9,7 @@ Since we opened our doors in 2012, we have had the opportunity to guide over 1,5
 - *For students enrolled in a course in the software engineering or data science fields of study, post at least 5 GitHub contributions per week to your public GitHub profile*
 - *For students enrolled in a course in the design field of study, you must either (i) complete one (1) extra credit assignment from your curriculum each week, (ii) complete three (3) modules in the track outside your specialization each week, or (iii) start one (1) design challenge from one of the approved web pages each week*
 
-Let’s dive deeper into each of these activities.
+Let’s dive deeper into each of these activities...
 
 ## Make Contact with 8 Specific People
 **(Software Engineering, Data Science, and UX/UI Design students)**
