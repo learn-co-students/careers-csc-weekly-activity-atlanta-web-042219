@@ -51,7 +51,7 @@ Of course, there are private repos, labs, and projects that don’t live on GitH
 
 **NOTE: Each student is responsible for ensuring that their contributions are correctly authored and are appearing on their public GitHub profile (Contributions chart) every week. [Read this](https://learn.co/tracks/career-prep/career-prep/your-online-presence/github) to ensure that you are properly authoring your contributions.**
 
-(And [read this](https://help.github.com/en/github/setting-up-and-managing-your-github-profile/why-are-my-contributions-not-showing-up-on-my-profile) to ensure you understand how GitHub conunts contributions.)
+Also, [read this](https://help.github.com/en/github/setting-up-and-managing-your-github-profile/why-are-my-contributions-not-showing-up-on-my-profile) to ensure you understand how GitHub counts contributions.
 
 A question we often get is: what does the contribution have to look like? How big does it have to be? The specifics are up to you - but make sure each contribution is meaningful. It’s pretty easy to go in and change a ReadMe or write a small piece of code to show a contribution was made. But the content of the changes can also be seen by employers. Our suggestion is to constantly be working on a side project that you are passionate about, and, ideally, daily. Make sure the contribution is adding to something larger, and to something that is visible. We want to ensure you are practicing regularly, and keeping your skills sharp.
 
