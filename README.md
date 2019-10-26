@@ -51,7 +51,9 @@ Of course, there are private repos, labs, and projects that don’t live on GitH
 
 **NOTE: Each student is responsible for ensuring that their contributions are correctly authored and are appearing on their public GitHub profile every week. [Read this](https://learn.co/tracks/career-prep/career-prep/your-online-presence/github) to ensure that you are properly authoring your contributions.**
 
-Below is a screenshot of the profile page on GitHub where we – and employers – will want to see, at a glance, that you’re building and practicing your skills frequently. You can read about how to make sure your contributions show up on your profile via the hyperlink (circled in red below) on your own profile.
+(And [read this](https://help.github.com/en/github/setting-up-and-managing-your-github-profile/why-are-my-contributions-not-showing-up-on-my-profile) to ensure you understand how GitHub conunts contributions.)
+
+Below is a screenshot of the profile page Contributions chat on GitHub where we – and employers – will want to see, at a glance, that you’re building and practicing your skills frequently. Read about how to make sure your contributions show up on your profile via the hyperlink below the chart on your own GitHub profile.
 
 ![alt text](https://lh6.googleusercontent.com/5hh4PfqvJzYfEfrWvjk4U2YZuM10jZPcBDrBO5TFAPlnOwWzUzsa_63WF4pffWzAe1tOVwIt4f7XCecdKh84K9_xwWNFHJUMV4N_HjQzLD9G5YmWzE7lFkDogZoms7l-j4n1s6rr)
 
