@@ -1,4 +1,4 @@
-# Career Services Commitment - Weekly Job Search Acivity
+# Career Services Commitment - Weekly Job Search Activity
 
 The [Career Services Commitment](https://flatironschool.com/career-services-commitment/) outlines a set of weekly job search activity that graduates must fulfill in order to remain eligible for Flatiron’s Money-Back Guarantee (please see the [Terms of Service](https://learn.co/tos) you acknowledged upon enrollment for full eligibility requirements). What does weekly job search activity mean, and what does it consist of? We have outlined specific activities that will help you to stay on track, source opportunities, and spend your time effectively to help you move closer to your goal of getting a job.
 
