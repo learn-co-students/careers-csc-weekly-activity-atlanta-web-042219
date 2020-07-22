@@ -39,8 +39,19 @@ You can fulfill your goal of 8 individual contacts per week with outreach emails
 * *Meeting new people at a meetup or event, and sending an email the next day to keep the line of communication open*
 * *Sending an email to a fellow practitioner, asking for advice/feedback on a project, resume, or blog post (advice helps you to become a better practitioner and job seeker!)*
 
-NOTE: Talking to **external** recruiters does not count towards the 8 connections per week (as they are not individuals at prospective employers within your field of study). If you want to talk to an external recruiter, that is okay! But it will need to be in addition to your 8 individual contacts. (Check out [this article](https://www.quora.com/What-do-tech-recruiters-think-about-programming-bootcamps-like-Hack-Reactor-DigitalCrafts-MakerSquare-and-Dev-Bootcamp/answer/Rebekah-Rombom-1) that explains why we encourage students to focus their efforts directly on the companies they want to work for.)
+**Note on External Recruiters**
+
+Talking to **external/3rd party recruiters / recruiting/staffing agencies does *not* count towards the 8 connections per week** (as they are not individuals at prospective employers within your field of study). If you want to talk to an external recruiter, that is okay! But it will need to be in addition to your 8 individual contacts. (Check out [this article](https://www.quora.com/What-do-tech-recruiters-think-about-programming-bootcamps-like-Hack-Reactor-DigitalCrafts-MakerSquare-and-Dev-Bootcamp/answer/Rebekah-Rombom-1) that explains why we encourage students to focus their efforts directly on the companies they want to work for.)
+
 Keep in mind that some leads that you pursue will respond quickly, while others might take a week or two to get back to you. Some you won’t ever hear from, and that’s okay. This is why we suggest the amount of activity that we do, because we know what amount of activity it takes to run a successful job search.
+
+**So, how do you tell if a company is an external/3rd party recruiting/staffing firm?** There are a few ways. First, if their company name contains words such as 'Technology Staffing' or 'Solutions', this could be an indicator, but it's not always certain. What you should do is go to the company's website and/or LinkedIn page; there you will be able to quick ascertain what they do. Often they'll say this right up front in their 'About Us', 'Services, or 'What We Do' sections. Also, look closely at their job postings; if they use language 'Our client' anywhere in the posting, it is almost cetain the role is for another company that they are recruiting on behalf of. 
+
+While external/3rd party recruiting/staffing firms are aplenty, **here are a few of the more well-known, larger ones**: Michael Page, TEK Systems, Robert Half, PEAk Kforce, Ransdtad, Avanti, Insight Global, ASGN. If you are uncertain whether or not a company falls into this category, please connect with your career coach for guidance.
+
+**TIP: Protect Yourself**
+
+While most recruiting/HR people and companies you interact with are fully legit, **beware** anyone who asks you to share your personal and/or private financial information (other than as part of completing a formal background check, application etc. for employment right before or at the time of a formal job offer/onboarding process). Equally, beware anyone who asks you to send them money in exchange for access to job opportunities, technical equipment to perform a job, etc. Report this to your carer coach right away so the two of you can vet/investigate further together.
 
 ## 5 GitHub Contributions
 **(Software Engineering and Data Science students)**
@@ -49,7 +60,7 @@ As a job seeker, you need to be building and selling your personal brand all the
 
 Of course, there are private repos, labs, and projects that don’t live on GitHub, and a lack of activity doesn’t necessarily mean you aren’t practicing your skills – but employers can’t see that, so it’s as good as invisible when it comes to your candidacy for jobs.  It’s important to show weekly activity on your public GitHub profile. That’s why the Career Services Commitment requires that you make a minimum of 5 public GitHub [contributions](https://chris.beams.io/posts/git-commit/) weekly. Emphasis on minimum!
 
-**NOTE: Each student is responsible for ensuring that their contributions are correctly authored and are appearing on their public GitHub profile (Contributions chart) every week. [Read this](https://learn.co/tracks/career-prep/career-prep/your-online-presence/github) to ensure that you are properly authoring your contributions.**
+**Note: Each student is responsible for ensuring that their contributions are correctly authored and are appearing on their public GitHub profile (Contributions chart) every week. [Read this](https://learn.co/tracks/career-prep/career-prep/your-online-presence/github) to ensure that you are properly authoring your contributions.**
 
 Also, [read this](https://help.github.com/en/github/setting-up-and-managing-your-github-profile/why-are-my-contributions-not-showing-up-on-my-profile) to ensure you understand how GitHub counts contributions.
 
